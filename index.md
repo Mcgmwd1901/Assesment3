@@ -1,5 +1,5 @@
-# *Insert project title here*
-## *Insert your name here* ##
+# *Focus*
+## *Matt McGrane* ##
 ## 1701QCA Making Interaction 2020 Final Project ##
 
 <!--- Instructions for the journal will mostly be included as comments, which appear in a block like this that opens with a less than symbol, exclamation mark and three hyphens and closes with three hyphens and a greater than symbol. Make sure you do not include any text you want visible within these symbols or it will not be visible to your instructor. In some cases, such as in headings, there is italicised text included between asterisks that needs to be replaced. --->
@@ -21,7 +21,7 @@ The image should be inserted with code like that below where you replace the fil
 
 <!--- PROJECT VIDEO: Provide a still image from your video and a link to the video below. In that code, replace `missingimage.png` with the still from your video and the URL of the video where indicated. If you link to a password protected video, you must include the password in the document you submit through Learning@Griffith. Failing to have a video that we can access might lead to significant reduction in marks, potentially as much as if the video has not been submitted at all. --->
 
-[![Image](missingimage.png)](https://your video address)
+[![Image](missingimage.png)](https://youtu.be/dpZ0wQKn5Fw)
 
 ### Journal ###
 
